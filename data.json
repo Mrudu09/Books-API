@@ -1084,6 +1084,16 @@
       "shopping-link": "https://www.amazon.in/Martian-Novel-Andy-Weir/dp/0804139024",
       "download-link": "https://www.readingsanctuary.com/the-martian-ebook/"
     },
+     {
+      "id": 58,
+      "number-pages": 324,
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publishing-year": "1960",
+      "publisher": " HarperCollins",
+      "shopping-link": "https://www.flipkart.com/to-kill-a-mockingbird/p/itmfdpmcsfgjnmry?pid=9781784752637&lid=LSTBOK9781784752637HAZRFN&marketplace=FLIPKART&cmpid=content_book_8965229628_gmc",
+      "download-link": "https://www.booksfree.org/to-kill-a-mockingbird-pdf-free-download/"
+    },
     {
       "id": 48,
       "name": "Curious: The Desire to Know and Why Your Future Depends on It",
